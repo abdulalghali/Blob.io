@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3585ea23331e6154281951f6be162d8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GreenVirus: {fileID: 44228680127652886, guid: f3824373287d7aa489533b76a7fc82ce, type: 3}
+  - virusParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
